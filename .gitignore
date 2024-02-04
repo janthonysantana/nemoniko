@@ -1,0 +1,4 @@
+nemoniko-env/
+.env
+__pycache__
+dev/
